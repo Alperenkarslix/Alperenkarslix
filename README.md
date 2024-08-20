@@ -1,7 +1,7 @@
 Hi 👋 My name is Alperen Karslı
 ===============================
 
-Computer Engineering Student
+Machine Learning Engineer
 ----------------------------
 
 * 🌍  I'm based in Turkey
