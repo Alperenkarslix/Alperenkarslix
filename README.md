@@ -6,8 +6,8 @@ Machine Learning Engineer
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [alperenkarsliceng@gmail.com](mailto:alperenkarsliceng@gmail.com)
-* 🧠  I'm learning JavaScript, Python and Swift
-* ✉️  You can contact me at [My Website](<a href="alperen-karslı.yolasite.com">)
+* 🧠  I'm learning React, Python and Swift
+* ✉️  You can contact me at [My Website](<a href="https://www.alperenkarsli.engineer">)
 
 <a href="https://www.twitter.com/alperenkarslix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alperenkarslix?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
